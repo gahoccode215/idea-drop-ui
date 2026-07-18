@@ -43,11 +43,9 @@ This project is designed to:
 
 # Screenshots
 
-```md
 ![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_1.png)
 ![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_2.png)
 ![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_3.png)
-```
 
 ---
 
