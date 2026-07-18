@@ -43,26 +43,10 @@ This project is designed to:
 
 # Screenshots
 
-> Add your screenshots here after finishing the project.
-
-```
-screenshots/
-├── ideas-page.png
-├── idea-details.png
-├── create-idea.png
-├── edit-idea.png
-```
-
-Example:
-
 ```md
-![Ideas](screenshots/ideas-page.png)
-
-![Details](screenshots/idea-details.png)
-
-![Create](screenshots/create-idea.png)
-
-![Edit](screenshots/edit-idea.png)
+![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_1.png)
+![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_2.png)
+![Source code and test script](https://github.com/gahoccode215/idea-drop-ui/blob/main/screenshots/sc_3.png)
 ```
 
 ---
@@ -92,18 +76,6 @@ npx json-server db.json --port 8000
 ```bash
 npm run dev
 ```
-
----
-
-# API Endpoints
-
-| Method | Endpoint | Description |
-|---------|----------|-------------|
-| GET | /ideas | Get all ideas |
-| GET | /ideas/:id | Get idea details |
-| POST | /ideas | Create idea |
-| PUT | /ideas/:id | Update idea |
-| DELETE | /ideas/:id | Delete idea |
 
 ---
 
