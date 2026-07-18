@@ -71,16 +71,6 @@
         "ai"
       ],
       "createdAt": "2025-04-24T13:10:00.000Z"
-    },
-    {
-      "title": "Test",
-      "summary": "Test",
-      "description": "Test",
-      "tags": [
-        "Test"
-      ],
-      "createAt": "2026-07-17T22:01:52.760Z",
-      "id": "7ImUmI_Vr08"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
