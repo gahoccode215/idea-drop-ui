@@ -84,7 +84,7 @@ npm install
 ## Start JSON Server
 
 ```bash
-npx json-server db.json --port 3000
+npx json-server db.json --port 8000
 ```
 
 ## Run the project
